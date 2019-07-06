@@ -1,0 +1,10 @@
+C:\Users\CASPER\source\repos\AppKiller\AppKiller\bin\Debug\AppKiller.exe.config
+C:\Users\CASPER\source\repos\AppKiller\AppKiller\bin\Debug\AppKiller.exe
+C:\Users\CASPER\source\repos\AppKiller\AppKiller\bin\Debug\AppKiller.pdb
+C:\Users\CASPER\source\repos\AppKiller\AppKiller\obj\Debug\AppKiller.Form1.resources
+C:\Users\CASPER\source\repos\AppKiller\AppKiller\obj\Debug\AppKiller.Properties.Resources.resources
+C:\Users\CASPER\source\repos\AppKiller\AppKiller\obj\Debug\AppKiller.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\AppKiller\AppKiller\obj\Debug\AppKiller.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\AppKiller\AppKiller\obj\Debug\AppKiller.exe
+C:\Users\CASPER\source\repos\AppKiller\AppKiller\obj\Debug\AppKiller.pdb
+C:\Users\CASPER\source\repos\AppKiller\AppKiller\obj\Debug\AppKiller.csprojAssemblyReference.cache
